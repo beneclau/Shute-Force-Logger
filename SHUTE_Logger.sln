@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHUTE_Logger", "SHUTE_Logger.csproj", "{99D2FF26-CE6F-490C-9EE9-05B9C46B6169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D2FF26-CE6F-490C-9EE9-05B9C46B6169}.Debug|x86.ActiveCfg = Debug|x86
+		{99D2FF26-CE6F-490C-9EE9-05B9C46B6169}.Debug|x86.Build.0 = Debug|x86
+		{99D2FF26-CE6F-490C-9EE9-05B9C46B6169}.Release|x86.ActiveCfg = Release|x86
+		{99D2FF26-CE6F-490C-9EE9-05B9C46B6169}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D991D6-1626-4026-935D-8BA0160625A6}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
